@@ -1,0 +1,17 @@
+{
+  "hash": "ab18c7014878198b60fbf41e30ad47d5",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"About\"\n---\n\nAbout this site\n\n\n::: {.cell}\n\n```{.r .cell-code}\n1 + 1\n```\n\n::: {.cell-output .cell-output-stdout}\n\n```\n[1] 2\n```\n\n\n:::\n:::\n\n\n---\ntitle: \"Sobre mim\"\n---\n\n![](imagens/foto1.jpg){fig-align=\"center\" width=\"300\"}\n\n## Olá, eu sou Esperidião A. Santos-Neto👋\n\nBem-vindo ao meu site!\n\n## Sobre mim\n\n- Graduado em Ciências Biológicas — Universidade do Estado da Bahia (UNEB), Campus X\n\n<!-- -->\n\n- Mestre em Ecologia e Conservação da Biodiversidade — Universidade Estadual de Santa Cruz (UESC)\n\n<!-- -->\n\n- Doutor em Zoologia — Universidade Estadual de Santa Cruz (UESC)\n\nTenho interesse na Diversidade e Taxonomia de Formicidae (Hymenoptera) neotropicais, com foco no gênero *Strumigenys*.\n\nAtuação em curadoria de coleção entomológica.\n\nE gosto bastante de macrofotografia.\n\n## Contato\n\nEmail: esperidiaoasneto\\@gmail.com\n",
+    "supporting": [
+      "about_files"
+    ],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

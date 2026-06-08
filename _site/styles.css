@@ -1,0 +1,10 @@
+/* css styles */
+
+body {
+  margin-left: 3rem !important;
+  margin-right: 3rem !important;
+}
+
+* {
+  box-sizing: border-box;
+}

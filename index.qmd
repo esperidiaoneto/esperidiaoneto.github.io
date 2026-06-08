@@ -1,0 +1,11 @@
+---
+title: "Fotos"
+---
+
+::: {layout-ncol="1"}
+![*Eciton burchellii*](imagens/Eciton%20buccheli.jpeg){width="100%"}
+
+![*Gnamptogenys coccina*](imagens/Gnamptogenys%20coccina.jpeg){width="100%"}
+
+![*Odontomachus hastatus*](imagens/Odontomachus%20hastatus.jpeg){width="100%"}
+:::
