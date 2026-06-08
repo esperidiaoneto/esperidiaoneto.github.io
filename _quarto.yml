@@ -7,11 +7,11 @@ website:
   navbar:
     left:
       - text: "Sobre mim"
-        href: about.qmd
+        href: index.qmd
       - text: "Publicações"
         href: publicacoes.qmd
       - text: "Fotos"
-        href: index.qmd
+        href: fotos.qmd
       - text: "Projetos"
         href: projetos.qmd
     right:
