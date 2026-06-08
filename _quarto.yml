@@ -11,9 +11,7 @@ website:
       - text: "Publicações"
         href: publicacoes.qmd
       - text: "Fotos"
-        href: fotos.qmd
-      - text: "Projetos"
-        href: projetos.qmd
+        href: fotos.qmd      
     right:
       - icon: github
         href: https://github.com/esperidiaoneto
