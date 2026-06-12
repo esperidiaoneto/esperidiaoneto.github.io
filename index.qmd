@@ -15,6 +15,9 @@ about:
     - icon: envelope
       text: Email
       href: mailto:esperidiaoasneto@gmail.com
+    - icon: inaturalist
+      text: inaturalist
+      href: https://www.inaturalist.org/people/esperidiaoneto
 ---
 
 Doutor em Zoologia pela Universidade Estadual de Santa Cruz (UESC). Tenho interesse na Diversidade e Taxonomia de Formicidae (Hymenoptera) neotropicais, principalmente no gênero *Strumigenys* Smith, 1860. Atuo na curadoria de coleção entomológica e gosto muito de macrofotografia.

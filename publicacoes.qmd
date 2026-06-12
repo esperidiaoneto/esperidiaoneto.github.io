@@ -4,18 +4,58 @@ title: "Publicações"
 
 ## Artigos
 
+### 2026
+::: {style="text-align: justify"}
+Arredondo, B.S., Santos-Neto, E.A.D., Guerrero, R.J. & Delabie, J.H.C. (2026) Rediscovery of Nesomyrmex clavipilis Wheeler, 1910 (Hymenoptera: Formicidae) after more than a century, with the first description of its worker. Zootaxa, 5810 (2), 316–330. [DOI: 10.11646/zootaxa.5810.2.4](https://doi.org/10.11646/zootaxa.5810.2.4)
+:::
+
+```{=html}
+<div style="display: flex; 
+            gap: 10px; 
+            margin-left: 35px; 
+            align-items: center; 
+            margin-top: -5px;
+            margin-bottom: 15px;">
+  <div class="altmetric-embed"
+       data-badge-type="donut"
+       data-doi="10.11646/zootaxa.5810.2.4">
+  </div>
+  <span class="__dimensions_badge_embed__"
+        data-doi="10.11646/zootaxa.5810.2.4"
+        data-style="small_circle">
+  </span>
+</div>
+```
+
 ### 2025
 
 ::: {style="text-align: justify"}
-Pauletti Filho, M.; **Santos Neto, E. A.**; Canizares, D. C. C.; Delabie, J. H. C. [Predatory ants of the genus *Leptogenys* Roger, 1861 (Formicidae, Ponerinae) from Bahia, Brazil, preserved in the 'Coleção do Laboratório de Mirmecologia do Centro de Pesquisas do Cacau'.](https://www.researchgate.net/publication/399428927_PREDATORY_ANTS_OF_THE_GENUS_Leptogenys_Roger_1861_FORMICIDAE_PONERINAE_FROM_BAHIA_BRAZIL_PRESERVED_IN_THE_COLECAO_DO_LABORATORIO_DE_MIRMECOLOGIA_DO_CENTRO_DE_PESQUISAS_DO_CACAU) Agrotrópica, v. 37, p. 33-48, 2025.
+Pauletti Filho, M.; **Santos Neto, E. A.**; Canizares, D. C. C.; Delabie, J. H. C. Predatory ants of the genus *Leptogenys* Roger, 1861 (Formicidae, Ponerinae) from Bahia, Brazil, preserved in the 'Coleção do Laboratório de Mirmecologia do Centro de Pesquisas do Cacau'. Agrotrópica, v. 37, p. 33-48, 2025. [DOI: 10.21757/0103-3816.2025v37n1,2p33-48](https://www.researchgate.net/publication/399428927_PREDATORY_ANTS_OF_THE_GENUS_Leptogenys_Roger_1861 _FORMICIDAE_PONERINAE_FROM_BAHIA_BRAZIL_PRESERVED_IN_THE_COLECAO_DO_LABORATORIO_DE_MIRMECOLOGIA_DO_CENTRO_DE_PESQUISAS_DO_CACAU)
 :::
 
 ### 2024
 
 ::: {style="text-align: justify"}
-**Santos-Neto, E. A.**; Chaul, J. C. M.; Delabie, J. H. C. [New species and new records of *Strumigenys* Smith, 1860 (Formicidae: Myrmicinae) from the Neotropical *schulzi* species group.](https://www.mdpi.com/2673-6500/4/3/32) Taxonomy, v. 4, p. 633-648, 2024.
+**Santos-Neto, E. A.**; Chaul, J. C. M.; Delabie, J. H. C. New species and new records of *Strumigenys* Smith, 1860 (Formicidae: Myrmicinae) from the Neotropical *schulzi* species group. Taxonomy, v. 4, p. 633-648, 2024. [DOI: 10.3390/taxonomy4030032](https://doi.org/10.3390/taxonomy4030032)
 :::
 
+```{=html}
+<div style="display: flex; 
+            gap: 10px; 
+            margin-left: 35px; 
+            align-items: center; 
+            margin-top: -5px;
+            margin-bottom: 15px;">
+  <div class="altmetric-embed"
+       data-badge-type="donut"
+       data-doi="10.3390/taxonomy4030032">
+  </div>
+  <span class="__dimensions_badge_embed__"
+        data-doi="10.3390/taxonomy4030032"
+        data-style="small_circle">
+  </span>
+</div>
+```
 ### 2023
 
 ::: {style="text-align: justify"}
@@ -29,19 +69,66 @@ Pauletti Filho, M.; **Santos-Neto, E. A.**; Delabie, J. H. C. [Diversidade das f
 ### 2022
 
 ::: {style="text-align: justify"}
-Silva, R. R.; Martello, F.; Feitosa, R. M.; Silva, O. G. M.; Prado, L. P.; Brandão, C. R. F.; Albuquerque, E. Z.; Morini, M. S. C.; Delabie, J. H. C.; \[...\] **Santos Neto, E. A.**; et al. Atlantic ants: a data set of ants in Atlantic Forests of South America. Ecology, v. 103, p. e03580, 2022.
+Silva, R. R.; Martello, F.; Feitosa, R. M.; Silva, O. G. M.; Prado, L. P.; Brandão, C. R. F.; Albuquerque, E. Z.; Morini, M. S. C.; Delabie, J. H. C.; \[...\] **Santos Neto, E. A.**; et al. Atlantic ants: a data set of ants in Atlantic Forests of South America. Ecology, v. 103, p. e03580, 2022. [DOI: 10.1002/ecy.3580](https://doi.org/10.1002/ecy.3580)
+:::
 
+```{=html}
+<div style="display: flex; 
+            gap: 10px; 
+            margin-left: 35px; 
+            align-items: center; 
+            margin-top: -5px;
+            margin-bottom: 15px;">
+  <div class="altmetric-embed"
+       data-badge-type="donut"
+       data-doi="10.1002/ecy.3580">
+  </div>
+  <span class="__dimensions_badge_embed__"
+        data-doi="10.1002/ecy.3580"
+        data-style="small_circle">
+  </span>
+</div>
+```
+::: {style="text-align: justify"}
 Arnhold, A.; Koch, E. B. A.; Nunes, L. O.; Silva, P. S.; **Santos-Neto, E. A.**; Delabie, J. H. C.; Mariano, C. S. F. Uso da armadilha de tipo Malaise omnidirecional no monitoramento de insetos num agrossistema cacaueiro. Agrotrópica, v. 34, p. 189-199, 2022.
 :::
 
 ### 2020
 
 ::: {style="text-align: justify"}
-Koch, E. B. A.; Marques, T. E. D.; Mariano, C. S. F.; **Santos-Neto, E. A.**; Arnhold, A.; Peronti, A. L. B. G.; Delabie, J. H. C. Diversidade e preferências estruturais para o mutualismo entre formigas e hemípteros em cacaueiros (*Theobroma cacao* L., Sterculiaceae). Boletim do Museu Paraense Emílio Goeldi — Ciências Naturais, v. 15, n. 1, p. 65-81, 2020.
+Koch, E. B. A.; Marques, T. E. D.; Mariano, C. S. F.; **Santos-Neto, E. A.**; Arnhold, A.; Peronti, A. L. B. G.; Delabie, J. H. C. Diversity and structure preferences for ant-hemipteran mutualisms in cocoa trees (Theobroma cacao L., Sterculiaceae). Boletim do Museu Paraense Emílio Goeldi — Ciências Naturais, v. 15, n. 1, p. 65-81, 2020.
+:::
 
+```{=html}
+<div style="display: flex; 
+            gap: 10px; 
+            margin-left: 35px; 
+            align-items: center; 
+            margin-top: -5px;
+            margin-bottom: 15px;">
+  <span class="__dimensions_badge_embed__"
+        data-doi="10.46357/bcnaturais.v15i1.251"
+        data-style="small_circle">
+  </span>
+</div>
+```
+::: {style="text-align: justify"}
 Delabie, J. H. C.; **Santos-Neto, E. A.**; Oliveira, M. L.; Silva, P. S.; Santos, R. J.; Caitano, B.; Mariano, C. S. F.; Arnhold, A.; Koch, E. B. A. A coleção de Formicidae do Centro de Pesquisas do Cacau (CPDC), Ilhéus, Bahia, Brasil. Boletim do Museu Paraense Emílio Goeldi — Ciências Naturais, v. 15, p. 289-305, 2020.
 :::
 
+```{=html}
+<div style="display: flex; 
+            gap: 10px; 
+            margin-left: 35px; 
+            align-items: center; 
+            margin-top: -5px;
+            margin-bottom: 15px;">
+  <span class="__dimensions_badge_embed__"
+        data-doi="10.46357/bcnaturais.v15i1.293"
+        data-style="small_circle">
+  </span>
+</div>
+```
 ## Capítulos de livros publicados
 
 ### 2025
