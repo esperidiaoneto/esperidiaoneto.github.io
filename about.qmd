@@ -15,6 +15,9 @@ about:
     - icon: envelope
       text: Email
       href: mailto:esperidiaoasneto@gmail.com
+    - icon: orcid
+      text: orcid
+      href: https://orcid.org/0000-0003-3557-4904
 ---
 
 Doutor em Zoologia pela Universidade Estadual de Santa Cruz (UESC). Tenho interesse na Diversidade e Taxonomia de Formicidae (Hymenoptera) neotropicais, principalmente no gênero *Strumigenys* Smith, 1860. Atuo na curadoria de coleção entomológica e gosto muito de macrofotografia.
